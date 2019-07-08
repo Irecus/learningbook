@@ -12,6 +12,8 @@
 3. introduction to tornado 中文翻译.pdf
 ## [python机器学习电子书](python)
 1. 深度学习入门：基于Python的理论与实现.pdf
+## [python面试题|习题电子书](python)
+1.2019最新BAT_python面试题.docx|pdf
 ## python交流群（[微信](admin.jpg)|[QQ](qrcode_1562374550173.jpg)）
 - [x] ```欢迎大家加入python学习微信群(目前人数较多 需要好友才能入群 请加管理员微信号)```
 - [x] ```喜欢玩qq的可以加下同名qq群，发送 pip uninstall python 即可验证入群。```
