@@ -20,7 +20,9 @@
 - [x] ```或者加管理员微信号，发送 pip uninstall python 即可被邀请入群。```
 ### 管理员微信
 <img width = "310" src="/admin.jpg" alt="管理员微信号"/>
+
 ## qq群-喜欢用qq的可以加入
 <img width = "310" src="/qrcode_1562374550173.jpg" alt="python从入门到放弃 qq qun"/>
-## 微信群-因群人数较多 目前已不能扫码加入了
-<img width = "310" src="/weixinqun.png" alt="python从入门到放弃 weinxin"/>
+
+## 微信公众号
+<img width = "310" src="/wechatgongzhonghao.bmp" alt=weixin公众号"/>
